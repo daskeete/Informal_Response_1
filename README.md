@@ -16,3 +16,15 @@ For the value of 7 my two answers are 22.0024 and 22.002678. Stochastic means ra
 
 According to my model the suggested prices for two, three, four, and five bedroom houses are $169441, $234615, $299789, and $364963 respectively.
 The 3, 4, and 5 bedroom houses provide good deals since according to the model they are underpriced. However the best deal is offered by the 3 bedroom house Hudgins with an approximate savings of $137615. The worst deal is the 2 bedroom house "moon" retailing for $250,000 because according to the model it is overpriced by approximately $80,059.
+
+
+| Number of Bedrooms     | Actual House Prices |	Predicted House Price |	Savings/(Overpayment) |
+| -------------------    | --------------------| -----------------------| ----------------------|
+|2_Bedroom(moon)	       |250000	             |169441	                |($80,559.00)           |
+|3_Bedroom(hudgins)	     |97000	               |234615                  |	$137,615.00           | 
+|3_Bedroom(newptcomfort) |229000               |	234615                |	$5,615.00             | 
+|4_Bedroom(church)	     |399000               |	299789	              |($99,211.00)           |
+|4_Bedroom(mobjack)      |	289000	           |299789	                |$10,789.00             |
+|5_Bedroom(mathews)      |	347500             |	364963	              |$17,463.00             | 
+
+
