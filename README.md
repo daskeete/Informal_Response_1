@@ -15,7 +15,7 @@ For the value of 7 my two answers are 22.0024 and 22.002678. Stochastic means ra
 ### Using the script you produced to predict housing price, take the provided six houses from Mathews, Virginia and train a neural net model that estimates the relationship between them. Based on this model, which of the six homes present a good deal? Which one is the worst deal? Justify your answer.
 
 According to my model the suggested prices for two, three, four, and five bedroom houses are $169441, $234615, $299789, and $364963 respectively.
-The 3, 4, and 5 bedroom houses provide good deals since according to the model they are underpriced. However the best deal is offered by the 3 bedroom house Hudgins with an approximate savings of $137615. The worst deal is the 2 bedroom house "moon" retailing for $250,000 because according to the model it is overpriced by approximately $80,059.
+All of the 3, 4, and 5 bedroom houses except the four bedroom house (church) provide good deals since according to the model they are underpriced. However the best deal is offered by the 3 bedroom house Hudgins with an approximate savings of $137615. The worst deal is the 4 bedroom house "church" retailing for $399,000 because according to the model it is overpriced by approximately $99,211.
 
 
 | Number of Bedrooms     | Actual House Price  |	Predicted House Price |	Savings/(Overpayment) |
