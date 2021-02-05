@@ -21,7 +21,7 @@ The 3, 4, and 5 bedroom houses provide good deals since according to the model t
 | Number of Bedrooms     | Actual House Price  |	Predicted House Price |	Savings/(Overpayment) |
 | -------------------    | --------------------| -----------------------| ----------------------|
 |2_Bedroom(moon)	       |250000	             |169441	                |($80,559.00)           |
-|3_Bedroom(hudgins)	     |97000	               |234615                  |	$137,615.00       </mark>
+|3_Bedroom(hudgins)	 <mark>    |97000	  <mark>             |234615   <mark>               |	$137,615.00           |</mark>
 |3_Bedroom(newptcomfort) |229000               |	234615                |	$5,615.00             | 
 |4_Bedroom(church)	     |399000               |	299789	              |($99,211.00)           |
 |4_Bedroom(mobjack)      |	289000	           |299789	                |$10,789.00             |
