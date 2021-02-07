@@ -1,4 +1,4 @@
-# Informal Response_1
+# Informal_Response_1
 ## What is Machine Learning...
 
 ### According to Moroney, what is the difference between traditional programming and machine learning?
